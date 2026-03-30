@@ -1,22 +1,20 @@
 ---
 date: '2026-03-30T02:01:24+01:00'
-draft: true
+draft: false
 title: 'My First Post'
 ---
 
-# This is my main title
+# This is my first post 
 
-This is a very important line.
+I like maths, history, computer science and physics.
 
-This is some bullet points.
+# What i will post
 
-1. Hello
-2. Goodbye
-3. Weiner
+On this blog i will post content related to programming, hardware, software, and maths. 
 
-# This is some code 
-
-```python3
-for x in range(100):
+```python
+for x in range(10):
     print(x)
 ```
+
+This is just a test to see if language markup is working.
