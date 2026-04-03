@@ -25,3 +25,5 @@ My goals for the next few years include the following:
 1. Gain a deeper underestanding of electromagnetics, optics and quantum
 2. Gain pratical experience with soldering and electronics
 3. Earn a RSGB radio intermediate license and build a QRP QMX radio kit
+4. Gain a full understanding of post quantum cryptography
+
