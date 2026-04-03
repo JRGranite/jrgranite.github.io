@@ -17,6 +17,7 @@ My hobbies include but are not limited to:
 2. Cryptography
 3. Hacking, Binary Analysis and System Explotation
 4. Ham Radio
+5. Programming in python, rust, c and sometimes x86_64 assembly
 
 ## My goals
 
