@@ -1,7 +1,7 @@
 ---
 date: '2026-04-03T22:49:18+01:00'
 draft: false
-title: 'My Ctf Journey'
+title: 'Hacking'
 ---
 
 At university i attend a hacking club where i sometimes compete in Capture the flag competitions.

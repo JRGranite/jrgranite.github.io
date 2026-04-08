@@ -1,7 +1,7 @@
 ---
 date: '2026-04-04T19:39:13+01:00'
 draft: false
-title: 'My Electronics Journey'
+title: 'Electronics'
 ---
 
 Ok so at the moment i have examinations so my main priority is to to study for them.

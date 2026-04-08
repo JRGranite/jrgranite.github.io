@@ -1,7 +1,7 @@
 ---
 date: '2026-03-30T02:01:24+01:00'
 draft: false
-title: 'My First Post'
+title: 'First Post'
 ---
 
 
@@ -23,9 +23,9 @@ My hobbies include but are not limited to:
 
 My goals for the next few years include the following:
 
-1. Gain a underestanding of quantum mechanics (Griffiths)
+1. Gain a underestanding of quantum mechanics.
 2. Increase my knowledge of electromagnetics, circuts and optics.
 3. Gain pratical experience with soldering and electronics
 4. Earn a RSGB radio intermediate license and build a QRP QMX radio kit
-5. Gain a full understanding of post quantum cryptography ( )
+5. Gain an understanding of post quantum cryptography.
 
