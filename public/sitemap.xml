@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/electronics/</loc>
+    <loc>http://localhost:43523/posts/electronics/</loc>
     <lastmod>2026-04-04T19:39:13+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:43523/</loc>
     <lastmod>2026-04-04T19:39:13+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:43523/posts/</loc>
     <lastmod>2026-04-04T19:39:13+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hacking/</loc>
+    <loc>http://localhost:43523/posts/hacking/</loc>
     <lastmod>2026-04-03T22:49:18+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/first-post/</loc>
+    <loc>http://localhost:43523/posts/first-post/</loc>
     <lastmod>2026-03-30T02:01:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:43523/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:43523/tags/</loc>
   </url>
 </urlset>
