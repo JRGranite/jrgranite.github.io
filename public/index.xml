@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jamie Grant</title>
-    <link>http://localhost:43523/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Jamie Grant</description>
     <image>
       <title>Jamie Grant</title>
-      <url>http://localhost:43523/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:43523/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 04 Apr 2026 19:39:13 +0100</lastBuildDate>
-    <atom:link href="http://localhost:43523/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Electronics</title>
-      <link>http://localhost:43523/posts/electronics/</link>
+      <link>http://localhost:1313/posts/electronics/</link>
       <pubDate>Sat, 04 Apr 2026 19:39:13 +0100</pubDate>
-      <guid>http://localhost:43523/posts/electronics/</guid>
+      <guid>http://localhost:1313/posts/electronics/</guid>
       <description>&lt;h2 id=&#34;my-plan&#34;&gt;My Plan&lt;/h2&gt;
 &lt;p&gt;My plan for the next year is to self learn some electronics supplementing my learning by joining a university society on the topic. Some reasourecs i have found to help me include the follwing:&lt;/p&gt;
 &lt;ol&gt;
@@ -31,9 +31,9 @@
     </item>
     <item>
       <title>Hacking</title>
-      <link>http://localhost:43523/posts/hacking/</link>
+      <link>http://localhost:1313/posts/hacking/</link>
       <pubDate>Fri, 03 Apr 2026 22:49:18 +0100</pubDate>
-      <guid>http://localhost:43523/posts/hacking/</guid>
+      <guid>http://localhost:1313/posts/hacking/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;At university i attend a hacking club where i sometimes compete in Capture the flag competitions, the main areas that i focus on in these ctfs are cryptography and binary exploitation.&lt;/p&gt;
 &lt;h2 id=&#34;ctf-events&#34;&gt;Ctf Events&lt;/h2&gt;
@@ -45,9 +45,9 @@
     </item>
     <item>
       <title>First Post</title>
-      <link>http://localhost:43523/posts/first-post/</link>
+      <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Mon, 30 Mar 2026 02:01:24 +0100</pubDate>
-      <guid>http://localhost:43523/posts/first-post/</guid>
+      <guid>http://localhost:1313/posts/first-post/</guid>
       <description>&lt;h2 id=&#34;who-am-i&#34;&gt;Who am i&lt;/h2&gt;
 &lt;p&gt;My name is Jamie Grant and i am a student studying a Mathematics.&lt;/p&gt;
 &lt;h2 id=&#34;what-i-do&#34;&gt;What i do&lt;/h2&gt;
