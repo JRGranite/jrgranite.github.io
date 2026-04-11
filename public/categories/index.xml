@@ -11,6 +11,28 @@
     </image>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Sat, 04 Apr 2026 19:39:13 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Electronics</title>
+      <link>http://localhost:1313/categories/electronics/</link>
+      <pubDate>Sat, 04 Apr 2026 19:39:13 +0100</pubDate>
+      <guid>http://localhost:1313/categories/electronics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hacking</title>
+      <link>http://localhost:1313/categories/hacking/</link>
+      <pubDate>Fri, 03 Apr 2026 22:49:18 +0100</pubDate>
+      <guid>http://localhost:1313/categories/hacking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal</title>
+      <link>http://localhost:1313/categories/personal/</link>
+      <pubDate>Mon, 30 Mar 2026 02:01:24 +0100</pubDate>
+      <guid>http://localhost:1313/categories/personal/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

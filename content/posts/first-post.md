@@ -1,6 +1,8 @@
 ---
 date: '2026-03-30T02:01:24+01:00'
 draft: false
+categories: 
+ - Personal
 title: 'First Post'
 ---
 

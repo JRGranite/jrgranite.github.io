@@ -1,6 +1,8 @@
 ---
 date: '2026-04-03T22:49:18+01:00'
 draft: false
+categories: 
+ - Hacking
 title: 'Hacking'
 ---
 

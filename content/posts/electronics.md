@@ -1,6 +1,8 @@
 ---
 date: '2026-04-04T19:39:13+01:00'
 draft: false
+categories: 
+ - Electronics
 title: 'Electronics'
 ---
 
