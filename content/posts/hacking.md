@@ -4,6 +4,7 @@ draft: false
 categories: 
  - Hacking
 title: 'Hacking'
+math: true
 ---
 
 ## Introduction 
@@ -16,4 +17,4 @@ Some ctf's i have attended during my time at university include.
 
 1. Pwned7 Qualifiers
 2. Sheffield Siege
-
+3. BAE CTF

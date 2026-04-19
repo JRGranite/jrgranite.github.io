@@ -41,7 +41,10 @@
 &lt;ol&gt;
 &lt;li&gt;Pwned7 Qualifiers&lt;/li&gt;
 &lt;li&gt;Sheffield Siege&lt;/li&gt;
-&lt;/ol&gt;</description>
+&lt;/ol&gt;
+&lt;h1 id=&#34;the-rsa-function&#34;&gt;The RSA Function&lt;/h1&gt;
+&lt;p&gt;Let $RSA_{N,e}: \mathbb{Z}^*_N \to \mathbb{Z}^*_N$  where $RSA_{N,e}(x) = x^e$&lt;/p&gt;
+&lt;p&gt;We then have $RSA_{N,e}^{-1}: \mathbb{Z}^*_N \to \mathbb{Z}^*_N$ where $RSA_{N,e}^{-1}(x) = x^d$&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Post</title>
